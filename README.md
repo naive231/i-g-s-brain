@@ -1,2 +1,2 @@
-# igs_brain
-Dedicatedly published material for IGS 
+# i-g-s brain
+Dedicatedly published material for I-G-S
